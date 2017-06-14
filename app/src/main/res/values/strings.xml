@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">day11 hw</string>
+    <string name="btn1">btn1</string>
+    <string name="btn2">btn2</string>
+    <string name="btn3">btn3</string>
+    <string name="btn4">btn4</string>
+    <string name="obama">Obama</string>
+    <string name="string_obama" />
+    <string name="clinton">Clinton</string>
+    <string name="xi">Xi</string>
+    <string name="trump">trump</string>
+    <string name="imageView">imgv</string>
+</resources>
